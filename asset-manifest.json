@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fitpeo_dashboard/static/css/main.8aed4b91.css",
+    "main.js": "/fitpeo_dashboard/static/js/main.0cc833bb.js",
+    "static/js/453.91aca5be.chunk.js": "/fitpeo_dashboard/static/js/453.91aca5be.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/fitpeo_dashboard/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/fitpeo_dashboard/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/activity-graph.png": "/fitpeo_dashboard/static/media/activity-graph.585a094e5034d3c1962d.png",
+    "static/media/menus.png": "/fitpeo_dashboard/static/media/menus.d14948dbfea7246cc30e.png",
+    "static/media/popular-dishes.png": "/fitpeo_dashboard/static/media/popular-dishes.1d050875294711dc4fc8.png",
+    "static/media/total-order.png": "/fitpeo_dashboard/static/media/total-order.07c67f800d6195601f22.png",
+    "static/media/goals.png": "/fitpeo_dashboard/static/media/goals.8eb138df98509271bff3.png",
+    "static/media/total-revenue.png": "/fitpeo_dashboard/static/media/total-revenue.e5f119a11b4835e586f0.png",
+    "static/media/total-cancilation.png": "/fitpeo_dashboard/static/media/total-cancilation.0377dae2cf56e3532ac2.png",
+    "static/media/total-delivary.png": "/fitpeo_dashboard/static/media/total-delivary.e8d0540486644865fc17.png",
+    "index.html": "/fitpeo_dashboard/index.html",
+    "main.8aed4b91.css.map": "/fitpeo_dashboard/static/css/main.8aed4b91.css.map",
+    "main.0cc833bb.js.map": "/fitpeo_dashboard/static/js/main.0cc833bb.js.map",
+    "453.91aca5be.chunk.js.map": "/fitpeo_dashboard/static/js/453.91aca5be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aed4b91.css",
+    "static/js/main.0cc833bb.js"
+  ]
+}
