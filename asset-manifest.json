@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/dashboard/static/css/main.ce6ed48a.css",
-    "main.js": "/dashboard/static/js/main.0c98ca1f.js",
-    "static/js/453.91aca5be.chunk.js": "/dashboard/static/js/453.91aca5be.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/dashboard/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/dashboard/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "static/media/activity-graph.png": "/dashboard/static/media/activity-graph.585a094e5034d3c1962d.png",
-    "static/media/menus.png": "/dashboard/static/media/menus.d14948dbfea7246cc30e.png",
-    "static/media/popular-dishes.png": "/dashboard/static/media/popular-dishes.1d050875294711dc4fc8.png",
-    "static/media/total-order.png": "/dashboard/static/media/total-order.07c67f800d6195601f22.png",
-    "static/media/goals.png": "/dashboard/static/media/goals.8eb138df98509271bff3.png",
-    "static/media/total-revenue.png": "/dashboard/static/media/total-revenue.e5f119a11b4835e586f0.png",
-    "static/media/total-cancilation.png": "/dashboard/static/media/total-cancilation.0377dae2cf56e3532ac2.png",
-    "static/media/total-delivary.png": "/dashboard/static/media/total-delivary.e8d0540486644865fc17.png",
-    "index.html": "/dashboard/index.html",
-    "main.ce6ed48a.css.map": "/dashboard/static/css/main.ce6ed48a.css.map",
-    "main.0c98ca1f.js.map": "/dashboard/static/js/main.0c98ca1f.js.map",
-    "453.91aca5be.chunk.js.map": "/dashboard/static/js/453.91aca5be.chunk.js.map"
+    "main.css": "/static/css/main.08dfb3da.css",
+    "main.js": "/static/js/main.a968cf46.js",
+    "static/js/453.91aca5be.chunk.js": "/static/js/453.91aca5be.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/activity-graph.png": "/static/media/activity-graph.585a094e5034d3c1962d.png",
+    "static/media/menus.png": "/static/media/menus.d14948dbfea7246cc30e.png",
+    "static/media/popular-dishes.png": "/static/media/popular-dishes.1d050875294711dc4fc8.png",
+    "static/media/total-order.png": "/static/media/total-order.07c67f800d6195601f22.png",
+    "static/media/goals.png": "/static/media/goals.8eb138df98509271bff3.png",
+    "static/media/total-revenue.png": "/static/media/total-revenue.e5f119a11b4835e586f0.png",
+    "static/media/total-cancilation.png": "/static/media/total-cancilation.0377dae2cf56e3532ac2.png",
+    "static/media/total-delivary.png": "/static/media/total-delivary.e8d0540486644865fc17.png",
+    "index.html": "/index.html",
+    "main.08dfb3da.css.map": "/static/css/main.08dfb3da.css.map",
+    "main.a968cf46.js.map": "/static/js/main.a968cf46.js.map",
+    "453.91aca5be.chunk.js.map": "/static/js/453.91aca5be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce6ed48a.css",
-    "static/js/main.0c98ca1f.js"
+    "static/css/main.08dfb3da.css",
+    "static/js/main.a968cf46.js"
   ]
 }
