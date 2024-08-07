@@ -1,0 +1,10 @@
+.dashboard {
+    
+    h2 {
+        font-size: var(--clamp35);
+    }
+    .dashboard-card{
+        border-radius: 8px;
+        background-color: var(--color-primary);
+    }
+}

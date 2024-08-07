@@ -1,0 +1,38 @@
+.sidebar {
+    background-color: var(--color-primary);
+
+    img {
+        width: 20px;
+    }
+
+    &.nav-justified {
+
+        .nav-item {
+            flex-grow: 0;
+
+            a {
+                position: relative;
+
+                &::after {
+                    position: absolute;
+                    top: 50%;
+                    left: 0;
+                    transform: translateY(-50%);
+                    background-color: var(--color-tertiary);
+                    width: 2px;
+                    height: 0%;
+                    content: "";
+                    border-radius: 5px;
+                    transition: all 0.5s ease-in-out;
+                }
+
+                &:hover,
+                &.active {
+                    &::after {
+                        height: 50%;
+                    }
+                }
+            }
+        }
+    }
+}

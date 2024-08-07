@@ -1,0 +1,30 @@
+.activity-card {
+    .select-arrow {
+        .form-select {
+            background-color: #4c4d52;
+            border: var(--color-white);
+            font-size: var(--clamp13);
+            font-weight: 500;
+            border-radius: 30px;
+            width: auto;
+            color: var(--color-white);
+            --bs-form-select-bg-img: unset;
+            padding-right: 30px;
+            outline: unset;
+            box-shadow: unset;
+        }
+
+        &::after {
+            position: absolute;
+            content: "";
+            top: 50%;
+            right: 13px;
+            transform: translateY(-50%);
+            clip-path: polygon(0 50%, 50% 100%, 100% 50%);
+            background-color: var(--color-white);
+            width: 10px;
+            height: 10px;
+            z-index: 10;
+        }
+    }
+}

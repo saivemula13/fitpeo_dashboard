@@ -1,0 +1,46 @@
+.order-details-card {
+    border-radius: 8px;
+    background-color: var(--color-primary);
+
+    .main-img {
+        width: 40px;
+        border-radius: 8px;
+    }
+
+    h4 {
+        font-size: var(--clamp35);
+    }
+
+    span {
+        font-size: var(--clamp15);
+        font-weight: bold;
+        position: relative;
+
+        &::after {
+            position: absolute;
+            content: "";
+            width: 12px;
+            height: 12px;
+            left: -19px;
+        }
+        
+        &.profit {
+            color: var(--color-green);
+            
+            &::after {
+                bottom: 0;
+                background-color: var(--color-green);
+                clip-path: polygon(50% 0%, 0 50%, 100% 50%);
+            }
+        }
+        
+        &.loss {
+            color: var(--color-red);
+            &::after {
+                top: 0;
+                background-color: var(--color-red);
+                clip-path: polygon(0 50%, 50% 100%, 100% 50%);
+            }
+        }
+    }
+}
