@@ -36,7 +36,7 @@ export const DashBoard = () => {
     },
     {
       cardImg: totalRevenue,
-      cardTitle: "Total Revenue",
+      cardTitle: "Total Revenue ",
       orderCount: "$12K",
       outcome: "loss",
       persentage: "3%"
